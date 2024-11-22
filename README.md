@@ -1,2 +1,5 @@
-- [Tax File 1](./main.tex)
-- [Example PDF](./resume.pdf)
+## Resume
+
+You can view and download my resume from the link below:
+
+[**Resume**](\resume.pdf)
