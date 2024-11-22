@@ -1,1 +1,2 @@
 - [Tax File 1](./main.tex)
+- [Example PDF](./resume.pdf)
